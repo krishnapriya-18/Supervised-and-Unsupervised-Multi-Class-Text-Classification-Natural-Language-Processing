@@ -1,4 +1,4 @@
-# Supervised-Multi-Class-Text-Classification-Natural-Language-Processing
+# Multi-Class-Text-Classification-Natural-Language-Processing
 
 AIM:
 
